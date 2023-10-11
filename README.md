@@ -12,6 +12,5 @@ Es importante analizar y comprender las preferencias cambiantes de los consumido
 Datos utilizados:
 en este proyecto utilice DAX,PowereBI, Colab, Python.
 
-RESULTADOS EN POWERBI
 
 
