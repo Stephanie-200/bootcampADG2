@@ -1,5 +1,7 @@
 PROYECTO MUNDO DE LAS MOTOS 
 
+Google- Slides: https://docs.google.com/presentation/d/1-GA1aGFRZLMDxSsleml9WYiX-wTSh8tzCaNaV1ywUF0/edit#slide=id.p13
+
 Presentacion: 
 En este proyecto se realizó un análisis del mercado de motocicletas en el mundo.Teniendo en cuenta diferentes tipos de motos según cilindraje, modelo,  engranaje, etc.
 
